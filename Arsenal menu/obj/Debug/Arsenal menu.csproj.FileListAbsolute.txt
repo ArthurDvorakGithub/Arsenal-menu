@@ -1,0 +1,7 @@
+C:\Users\Администратор\source\repos\Arsenal menu\Arsenal menu\bin\Debug\Arsenal menu.exe.config
+C:\Users\Администратор\source\repos\Arsenal menu\Arsenal menu\bin\Debug\Arsenal menu.exe
+C:\Users\Администратор\source\repos\Arsenal menu\Arsenal menu\bin\Debug\Arsenal menu.pdb
+C:\Users\Администратор\source\repos\Arsenal menu\Arsenal menu\obj\Debug\Arsenal menu.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\Arsenal menu\Arsenal menu\obj\Debug\Arsenal menu.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Arsenal menu\Arsenal menu\obj\Debug\Arsenal menu.exe
+C:\Users\Администратор\source\repos\Arsenal menu\Arsenal menu\obj\Debug\Arsenal menu.pdb
